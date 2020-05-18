@@ -6,7 +6,7 @@ Contents
 Machine Learning
 
 
-Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
+Tools: scikit-learn, Pandas, Matplotlib
 
 Natural Language Processing
 
